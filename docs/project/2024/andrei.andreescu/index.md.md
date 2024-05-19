@@ -30,7 +30,8 @@ for me an alarm sistem is very interesting so for me to do one is absolutly gran
 ### Week 20 - 26 May
 
 ## Hardware
-
+![Hardware](poza1.jpg)
+![Hardware](poza2.jpg)
 Raspberry Pi Pico W (SC0918): Microcontroller board based on the RP2040 microcontroller chip.
 
 APDS-9960 Light Sensor: Digital RGB, ambient light, and gesture sensor with I2C interface.
