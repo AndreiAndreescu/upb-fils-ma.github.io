@@ -14,7 +14,7 @@ i want to make a project that activates a system alarm when something enters in 
 
 ## Motivation
 
-its very interesting and helpful to make an alarm sensor 
+for me an alarm sistem is very interesting so for me to do one is absolutly grandious 
 
 ## Architecture 
 
@@ -31,15 +31,28 @@ its very interesting and helpful to make an alarm sensor
 
 ## Hardware
 
-Detail in a few words the hardware used.
+Raspberry Pi Pico W (SC0918): Microcontroller board based on the RP2040 microcontroller chip.
+
+APDS-9960 Light Sensor: Digital RGB, ambient light, and gesture sensor with I2C interface.
+
+VL53L0X Distance Laser Sensor: Time-of-flight (ToF) laser-ranging sensor for measuring distances with an I2C interface.
+
+RGB LED: Light-emitting diode capable of producing various colors, typically with common cathode/anode configuration.
+
+Buzzer: Electromechanical component that produces sound when activated, usually by applying an alternating current.
 
 ### Schematics
 
-Place your KiCAD schematics here.
+![kicad schematics](kicad.jpg)
 
 ### Bill of Materials
 
-<!-- Fill out this table with all the hardware components that you might need.
+Rapspberry Pi Pico W
+Light sensor and movement sensor
+Laser distance sensor
+Rgb led
+Buzzer
+Power supply 
 
 The format is 
 ```
